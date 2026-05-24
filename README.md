@@ -1,7 +1,7 @@
 
 
 # NC State Wolfpack — Transfer Portal Analytics Tool
-**Developed by JJ Eubank Basketball Analytics**
+**Developed by JJ Eubank Basketball Analyst**
 
 ## Overview
 A data-driven recruiting tool built to evaluate and rank 
