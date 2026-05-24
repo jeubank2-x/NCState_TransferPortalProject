@@ -31,8 +31,7 @@ roster under Head Coach Justin Gainey.
 
 ## Output
 A position-by-position recruiting board scored and ranked 
-specifically for the Gainey defensive system and Driscoll 
-offensive system at NC State.
+specifically for NC STATE. 
 
 ## Recruiting Board
 [View NC State Recruiting Board](https://htmlpreview.github.io/?https://github.com/jeubank2-x/NCState_TransferPortalProject/blob/main/data/outputs/NC_State_Recruiting_Board.html)
