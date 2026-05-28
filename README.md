@@ -29,6 +29,37 @@ roster under Head Coach Justin Gainey.
 - 04_team_fit — NC State system fit scoring
 - 05_output — Final recruiting board and HTML report
 
+## Methodology & Weight Decisions
+
+**Defensive Weight (40%)**
+Coach Gainey posted top 3 national defensive efficiency ratings in 
+all 3 years as coordinator at Tennessee. This roster needs to 
+be built around that identity first.
+
+**Positional Need (20%)**
+NC State has one true center in Kyle Evans and limited SF depth 
+behind Paul McNeil and RJ Keene. The model automatically 
+prioritizes players at positions of greatest need.
+
+**Offensive Weight (20%)**
+Coach Driscoll built a national identity at UNF around pace and 
+3-point shooting. Offensive fit matters but comes second to 
+defensive identity.
+
+**3PT Tendency (10%)**
+Weighted lower because the current roster already has strong 
+3PT shooters in Hammond (39.3%), Yalaho (39.8%), and McNeil 
+(42.7%). New additions do not need to fill that role.
+
+**Competition Adjustment (10%)**
+Players from stronger conferences get a boost. ACC readiness 
+matters when evaluating portal targets.
+
+## Data Limitations
+Model accuracy would improve with access to shot type data, 
+NIL valuations, and direct collaboration with coaching staff 
+on system priorities and roster vision.
+
 ## Output
 A position-by-position recruiting board scored and ranked 
 specifically for NC STATE. 
